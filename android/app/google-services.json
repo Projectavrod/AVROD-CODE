@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176315844467",
+    "project_id": "avrod-5c1c9",
+    "storage_bucket": "avrod-5c1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176315844467:android:de25a3d0fc6ad80024e706",
+        "android_client_info": {
+          "package_name": "com.example.avrod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSyDLAYRqT5_ZBOVxZhKW6PKzdhjmstU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
